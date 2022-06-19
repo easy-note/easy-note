@@ -1,10 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihyun%20Lee&fontSize=70)
 
-<h3 align="center">✨ Tech Stack ✨ <h3>
+
+<h3 align="center">✨ Tech Stack ✨ </h3>
   
-<p align="center">
-  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/C-0101DF?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<p aling="center">
+![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/C-0101DF?style=flat-square&logo=C&logoColor=white) 
+</p>
+
 
 <!--
 **easy-note/easy-note** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
