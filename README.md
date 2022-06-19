@@ -4,7 +4,8 @@
 <h3 align="center">✨ Tech Stack ✨ </h3>
   
 <p aling="center">
-![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/C-0101DF?style=flat-square&logo=C&logoColor=white) 
+  <img scr="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-0101DF?style=flat-square&logo=C&logoColor=white"> 
 </p>
 
 
