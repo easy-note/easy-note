@@ -4,7 +4,7 @@
 <h3 align="center">✨ Tech Stack ✨ </h3>
   
 <h3 align="center">
-<img src="https://img.shields.io/badge/Python-11B48A?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-04B486?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Python-11B48A?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-6E6E6E?style=flat-square&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-5858FA?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/HTML-FF8000?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-DBA901?style=flat-square&logo=CSS3&logoColor=white">
 </h3>
 
 <!--
