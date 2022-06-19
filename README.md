@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-<h3 align="center">✨ Tech Stack ✨ <h>
+<h3 align="center">✨ Tech Stack ✨ <h3>
+  
 <p align="center">
+  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/C-0101DF?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
 <!--
