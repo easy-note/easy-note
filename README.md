@@ -2,7 +2,7 @@
 
 <h3 align="center">✨ Tech Stack ✨ <h>
 <p align="center">
-![] <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp ![] <img src="https://img.shields.io/badge/C-0101DF?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/C-0101DF?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 
 <!--
 **easy-note/easy-note** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
